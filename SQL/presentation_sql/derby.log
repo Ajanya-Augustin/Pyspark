@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Wed Jan 17 15:46:44 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018d-16ec-566f-000001447e88 
+on database directory E:\unused\Udemy\Spark_practice\raw\SQL\presentation_sql\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@bed3dd1f 
+Loaded from file:/E:/scala/spark-3.3.4-bin-hadoop2/spark-3.3.4-bin-hadoop2/jars/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.10+9
+java.fullversion=11.0.10+9
+JRE 11 Windows 10 amd64-64-Bit 20210120_627 (JIT enabled, AOT enabled)
+OpenJ9   - 345e1b09e
+OMR      - 741e94ea8
+JCL      - 0a86953833 based on jdk-11.0.10+9
+user.dir=E:\unused\Udemy\Spark_practice\raw\SQL\presentation_sql
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
